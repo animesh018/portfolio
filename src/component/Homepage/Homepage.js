@@ -12,7 +12,7 @@ function Homepage() {
                 <p className="homepage_left_h1"><span className="dark_color">Hi,</span> I am </p>
                 <p className="homepage_left_h2">Animesh </p>
                 <p className="homepage_left_h_2">Srivastava</p>
-                <p className="homepage_left_h3">Learning <span className="dark_color">React.js</span></p>
+                <p className="homepage_left_h3">Exploring <span className="dark_color">React.js</span></p>
                 <p className="homepage_left_description">I enjoy approaching problems from many angles, making bold judgments, and maintaining a laser-like focus on the broader picture.</p>
                 <div>
                     <a href="https://github.com/animesh018" target="_blank">

@@ -17,18 +17,8 @@
 .ex_card_sentence {
     font-size: 19px;
 }
-.ex_card_tech_used_title {
-    text-align: center;
-    font-size: 28px;
-    font-weight: 600;
-}
-.ex_card_icon_images_container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.ex_card_icon_images_container > img {
-    height: 50px;
-    margin: 0 9px;
-    padding-bottom: 20px;
+
+.ex_card_subtitle > span {
+
+    font-weight: 700;
 }

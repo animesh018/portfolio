@@ -12,7 +12,7 @@ import Experience from "./component/Experience/Experience";
 // 3. Tech Stack
 // 4. Experience
 // 5. Projects
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 function App() {
   return (
     <div>
@@ -23,6 +23,7 @@ function App() {
         <Experience />
         
         </div>
+        
     </div>
   );
 }
